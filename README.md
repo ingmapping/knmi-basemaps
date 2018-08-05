@@ -30,7 +30,7 @@ The developed tiled basemaps respond well to the advantages of interactive maps 
 * KNMI GeoWeb Klokantech Basic NL No Labels - *A custom styled basemap without labels for the extent of the Kingdom of the Netherlands for balanced overview, data overlay and some detail when zooming in. Recommended for users that are used to the Google Maps style.*
 
 ## An overview of the tools and GitHub repositories to reproduce the new KNMI GeoWeb basemaps
-* KNMI GeoWeb WorldMap - [https://www.github.com/ingmaping/Basemaps_QTiles](https://www.github.com/ingmaping/Basemaps_QTiles).
+* KNMI GeoWeb WorldMap - [https://www.github.com/ingmapping/Basemaps_QTiles](https://www.github.com/ingmapping/Basemaps_QTiles).
 * KNMI GeoWeb WorldMap Light Grey Canvas - [https://www.github.com/ingmapping/custom-projections-tilemill](https://www.github.com/ingmapping/custom-projections-tilemill).
 * KNMI GeoWeb OpenStreetMap NL - [https://www.github.com/ingmapping/docker-mapnik-osm-tiles](https://www.github.com/ingmapping/docker-mapnik-osm-tiles).
 * KNMI GeoWeb OSM Blossom NL - [https://www.github.com/ingmapping/docker-osm-blossom](https://www.github.com/ingmapping/docker-osm-blossom) or [https://www.github.com/ingmapping/osm-blossom-tilemill](https://www.github.com/ingmapping/osm-blossom-tilemill).
